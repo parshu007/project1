@@ -4,6 +4,7 @@
 
 @php
 print_r($_SERVER);
+
 @endphp
 
 @include('footer')
