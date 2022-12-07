@@ -10,6 +10,6 @@ class HomeController extends Controller
         return view('view_new');
     }
 	public function about(){
-        return view('about	');
+        return view('about');
     }
 }

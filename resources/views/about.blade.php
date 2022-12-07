@@ -1,11 +1,11 @@
+@extends('layout.guest')
 
-@include('header')
-@include('leftpane')
-
-@php
-print_r($_SERVER);
-
-@endphp
-
-@include('footer')
-
+@section('content')
+asdf
+asdf
+asdf
+asd
+fscanfdfasdf
+asasd
+fclosef
+@endsection
